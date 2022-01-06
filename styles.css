@@ -1,0 +1,131 @@
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+span{
+  color:  #ff7426 ;
+}
+h1{
+  color: #030D28;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0px;
+  line-height: 47px;
+}
+h2{
+  color: #030D28;
+  font-size: 35px;
+  font-weight: 600;
+  margin: 0px 0px 8px 0px;
+  line-height: 40px;
+}
+h3{
+  color: #030D28;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0px;
+}
+p{
+  color: #696687;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+a{
+
+  color: #fff;
+  border: none;
+  height: 45px;
+  width: 250px;
+  outline: none;
+  padding: 11px 20px;
+  font-size: 13px;
+  margin: 20px 0px;
+  font-weight: 500;
+  border-radius: 5px;
+  background-color: #6254e7;
+  font-family: 'Poppins', sans-serif;  
+  text-decoration: none;
+}
+h6{
+  color: #696687;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+.section-title{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+section{
+  margin: 0% 8% 5%;
+}
+.section{
+  display: flex;
+}
+/* hero section start */
+
+
+.hero-section-left{
+  width: 50%;
+  padding-right: 6%;
+  margin-top: 120px;
+}
+.hero-section-left-title{
+  border-left: 3px solid #6254e7;
+  padding-left: 5px;
+}
+.hero-section-right {
+  width: 50%;
+}
+.hero-section-right img {
+  width: 80%;
+  height: 90%;
+}
+/* hero section end */
+/* mission  section start */
+.card{
+  width: 33.333%;
+  border-radius: 15px;
+  margin: 20px 25px;
+  border: 1px solid #E5E8EC;
+  padding: 15px 20px;
+}
+.mission-bg{
+  background: #e7e9ec;
+}
+.vission-bg{
+  background: #fffce1;
+}
+.goals-bg{
+  background: #e5ffe1;
+}
+/* mission section end*/
+/* develop section start */
+.develop-section-left{
+  width:50%
+}
+.develop-section-left img {
+  width:80%
+}
+.develop-section-right{
+  width:50%;
+  margin-top: 8%;
+}
+/* develop section end*/
+/* comunity section start*/
+.comunity-section-left{
+  padding-right: 2%;
+  width:50%;
+  margin-top: 8%;
+}
+.comunity-section-right{
+  width:50%;
+}
+.comunity-section-right img {
+  width:80%;
+  margin-left: 15%;
+}
+/* develop section end*/
